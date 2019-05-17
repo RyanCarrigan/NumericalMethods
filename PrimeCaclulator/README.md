@@ -11,7 +11,7 @@
 
 #### Description: prime
 ###### This function uses user inputs to calculate the prime numbers between the two integers. 
-####### Inputs:
-######### m is the positive integer and n is a positive integer greater than m.
-####### Outputs: 
-######### the outputs are all the prime numbers between m and n.
+##### Inputs:
+###### m is the positive integer and n is a positive integer greater than m.
+##### Outputs: 
+###### the outputs are all the prime numbers between m and n.
