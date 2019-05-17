@@ -1,1 +1,0 @@
-This program calculates the machine epsilon.
