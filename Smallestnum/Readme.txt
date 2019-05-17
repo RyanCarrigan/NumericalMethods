@@ -1,1 +1,0 @@
-The program calculates the smallest real number.
