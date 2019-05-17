@@ -1,7 +1,7 @@
 # dayscounter and days
 
 #### Author: Ryan Carrigan
-##### Date: first semester 2018
+##### Date: 2/3/2019
 
 ## Description:
 ##### These functions are two different ways to calculate the days elapsed in a year. 
